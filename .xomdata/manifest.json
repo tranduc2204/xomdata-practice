@@ -78,5 +78,18 @@
   "practice/python/easy/py-title-case/solution.py": "9d5590aeb56e55419c62e171573735f13f69a06ec09bbb2900a40cf0c6abad1b",
   "practice/python/easy/py-total-revenue-dict/solution.py": "1bf5a03e3aed8646380b2cd52b9533c72e5e775410b8da33973e17e8eeb4b720",
   "practice/python/easy/py-trim-input/solution.py": "99b5079aaf7541c4aa48a9ff81515a89056e5fb2d4074980fae7d78c58ab5bc9",
-  "practice/python/easy/py-truncate-title/solution.py": "0a7695e66ac233da2614e121067f9f31035074e1c80f87324c5a07ca9430fa35"
+  "practice/python/easy/py-truncate-title/solution.py": "0a7695e66ac233da2614e121067f9f31035074e1c80f87324c5a07ca9430fa35",
+  "practice/python/easy/py-unique-order/solution.py": "11380d223099e541ecd74184f506909af400c902e2a52bc867c0f62b893f7d0a",
+  "practice/python/easy/py-update-stock/solution.py": "a1ed6cca8e9fa8c1bb4ee62a160b4cd60b31098dd7aa9584104446d6b1a027d2",
+  "practice/python/easy/py-vnd-to-usd/solution.py": "f9a2e343cbb9f1e9481512c3d1fb739223cf4ccc76df5b75bf22f1b4e9938765",
+  "practice/python/easy/py-in-stock/solution.py": "a19fa16a54ee334d84717b6b80b9ffbe18b0d993ed0a08cefc6b3ea08e0404b9",
+  "practice/python/easy/py-index-of-max/solution.py": "31214153eecc883c2aaf239e4fefeae113ddd4fc787f52e5dcc7212f2ec2ab07",
+  "practice/python/easy/py-most-frequent/solution.py": "8a3f2430e5756937f5fd4383382c52073f822b1d7ee5dfcb5746fcaaa85d25c7",
+  "practice/python/easy/py-multiples-under/solution.py": "b9941211fb61a9dc2f8aeec9bbfda8114735ac49bb0ab2276ef79e11983e922f",
+  "practice/python/easy/py-palindrome/solution.py": "723e05271b804c4399cd0b98bed944aeba5711af9e1f13283ac19f236a4e05ef",
+  "practice/python/easy/py-price-lookup/solution.py": "3b0f885f62f4d33d39c13072fad8eb020abecd5111a131bb83f28602408b4f8e",
+  "practice/python/easy/py-count-digits/solution.py": "a28bb04985a7258d669e036ed5bf48a1ee50507c51091118d912628c73ba2c3c",
+  "practice/python/easy/py-count-even/solution.py": "59e04fc4067cbfb195feafc1963a7ad9857e8b4aa1198603a9e916511ad6b13a",
+  "practice/python/easy/py-count-value/solution.py": "5502194bfa05decba4085334712baeafe2a0b15a566de11d41189547284c3ace",
+  "practice/python/medium/py-second-largest/solution.py": "cad3b6c2feb5d93ba06775971bc5199856ef333822bdd8d67c9b2d789736cac7"
 }
