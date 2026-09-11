@@ -91,5 +91,21 @@
   "practice/python/easy/py-count-digits/solution.py": "a28bb04985a7258d669e036ed5bf48a1ee50507c51091118d912628c73ba2c3c",
   "practice/python/easy/py-count-even/solution.py": "59e04fc4067cbfb195feafc1963a7ad9857e8b4aa1198603a9e916511ad6b13a",
   "practice/python/easy/py-count-value/solution.py": "5502194bfa05decba4085334712baeafe2a0b15a566de11d41189547284c3ace",
-  "practice/python/medium/py-second-largest/solution.py": "cad3b6c2feb5d93ba06775971bc5199856ef333822bdd8d67c9b2d789736cac7"
+  "practice/python/medium/py-second-largest/solution.py": "cad3b6c2feb5d93ba06775971bc5199856ef333822bdd8d67c9b2d789736cac7",
+  "practice/python/medium/py-is-prime/solution.py": "411e4be55e843912e6d087d4d53fcca245ccab6fa5b10c4b02304bc4b2c974e6",
+  "practice/python/medium/py-average-per-group/solution.py": "e18fe65eee7b201876de7bd65eeb6fff8e5934556a1712908dcf599046629bc1",
+  "practice/python/medium/py-group-category/solution.py": "fc33cd1a5bdb3eba2f141e3632357648e11a01ebf7f4e43bef6b16ed5cc14a02",
+  "practice/python/medium/py-digit-frequency/solution.py": "bf6ddf26bfc8b02bbf5ba34ed8df55c9b72ffa0b66a8b5a729e182875163c1db",
+  "practice/python/medium/py-missing-number/solution.py": "7eabaedd8222783ff1ff9bfce32598b0c1e9a8379fdda06dc9aaaa5e8cd3225a",
+  "practice/python/medium/py-password-strength/solution.py": "e990a6f31ec5e2b0e4394cdeb8db48b5a83c4a596a16d9059356ec990b90aecd",
+  "practice/python/easy/py-in-range/solution.py": "b6d29fac3e4fc6463f1b60be5b89956dc51844b777d8a9e140122e392d5362bd",
+  "practice/sql/nightmare/expert-final-agg-001/solution.sql": "ebf0b8c4d6f15657acfe66e993631a4bbba2b9193e392fe4cc566837682c9bdb",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "6f6e845536037434412cd698986d8110e4d24c9da2a474cdb5e3c343ab6fcab0",
+  "practice/python/medium/py-reverse-words/solution.py": "7366c30e8859b919ea41931c73ef15210d43cc96595a681c1efab90fe937bb41",
+  "practice/sql/medium/medium-frequency-005/solution.sql": "386319cf0366cfe1374330f6d5a1fd145a6d8bcba911dd930018b6510d67d156",
+  "practice/sql/easy/medium-cohort-003/solution.sql": "86cf169b56803e4e71351bd0a751d679439caca180b6ec402b0aa78246688a02",
+  "practice/sql/easy/medium-monetary-001/solution.sql": "b2e2ebbbea443eee2a2608a8f3a142b3db487490d3f3b829ae9ac10dcb90993f",
+  "practice/sql/medium/medium-monetary-005/solution.sql": "c0e1b87143bbfcc25844b3ba3dbd1f146ac70efa9c6bb157a068c064dddd0a16",
+  "practice/python/easy/py-discount-tier/solution.py": "17f5fcd2814d753aba4cf75d740350f16dea909a861545a26313282c1e076dc0",
+  "practice/python/medium/py-email-domain/solution.py": "3b439fde700ddedd4e2dd075c7dbddada40365adb95506b8cfd894d5e0376249"
 }
