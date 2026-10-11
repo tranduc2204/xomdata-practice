@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**109** problems solved on [Xom Data](https://xomdata.com/practice).
+**118** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 38 | 9 | 0 | 0 | 47 |
-| SQL | 13 | 34 | 11 | 4 | 62 |
+| SQL | 14 | 39 | 14 | 4 | 71 |
 
 **Recently solved**
 
+- [medium-runtotal-001](https://xomdata.com/practice/medium-runtotal-001) · Medium · 2026-10-11
+- [medium-rownum-003](https://xomdata.com/practice/medium-rownum-003) · Medium · 2026-10-10
+- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-10-10
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-10-09
+- [medium-recency-001](https://xomdata.com/practice/medium-recency-001) · Medium · 2026-10-07
+- [medium-firstlast-003](https://xomdata.com/practice/medium-firstlast-003) · Medium · 2026-09-29
+- [medium-active-004](https://xomdata.com/practice/medium-active-004) · Easy · 2026-09-13
+- [medium-gap-002](https://xomdata.com/practice/medium-gap-002) · Hard · 2026-09-13
+- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-09-12
 - [py-email-domain](https://xomdata.com/practice/py-email-domain) · Medium · 2026-09-11
-- [py-discount-tier](https://xomdata.com/practice/py-discount-tier) · Easy · 2026-09-10
-- [medium-monetary-005](https://xomdata.com/practice/medium-monetary-005) · Medium · 2026-09-07
-- [medium-monetary-001](https://xomdata.com/practice/medium-monetary-001) · Easy · 2026-09-06
-- [medium-cohort-003](https://xomdata.com/practice/medium-cohort-003) · Easy · 2026-09-06
-- [medium-frequency-005](https://xomdata.com/practice/medium-frequency-005) · Medium · 2026-09-05
-- [py-reverse-words](https://xomdata.com/practice/py-reverse-words) · Medium · 2026-09-05
-- [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-09-02
-- [expert-final-agg-001](https://xomdata.com/practice/expert-final-agg-001) · Nightmare · 2026-09-02
-- [py-in-range](https://xomdata.com/practice/py-in-range) · Easy · 2026-08-31
 
-_Synced 109 solutions · last update 2026-09-11_
+_Synced 118 solutions · last update 2026-10-11_
 
 <!-- xomdata:stats:end -->
 

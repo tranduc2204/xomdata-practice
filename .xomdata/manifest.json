@@ -107,5 +107,14 @@
   "practice/sql/easy/medium-monetary-001/solution.sql": "b2e2ebbbea443eee2a2608a8f3a142b3db487490d3f3b829ae9ac10dcb90993f",
   "practice/sql/medium/medium-monetary-005/solution.sql": "c0e1b87143bbfcc25844b3ba3dbd1f146ac70efa9c6bb157a068c064dddd0a16",
   "practice/python/easy/py-discount-tier/solution.py": "17f5fcd2814d753aba4cf75d740350f16dea909a861545a26313282c1e076dc0",
-  "practice/python/medium/py-email-domain/solution.py": "3b439fde700ddedd4e2dd075c7dbddada40365adb95506b8cfd894d5e0376249"
+  "practice/python/medium/py-email-domain/solution.py": "3b439fde700ddedd4e2dd075c7dbddada40365adb95506b8cfd894d5e0376249",
+  "practice/sql/hard/hard-cohort-003/solution.sql": "845a86ef8b590a438049e22a8fc22e1b31e189b1272f3c686ba9e02efc57df1a",
+  "practice/sql/hard/medium-gap-002/solution.sql": "7f3694447de1ca9292ffaa5e35e04e2747de6962dd5b0c50c98f4e150e64c1d5",
+  "practice/sql/easy/medium-active-004/solution.sql": "0d25e92dbf2e8de49109cdd161addd8483e4c004322f698a39c7bd3ff304a2f5",
+  "practice/sql/medium/medium-firstlast-003/solution.sql": "1021c39ad7bc4a7a7098f9e6f00366c0ed878a5218ddf983b2a82c617a26f1ca",
+  "practice/sql/medium/medium-recency-001/solution.sql": "df816317e7c4752d0d24aa9dadab947bc3e19b6a5f3fd9b63d9f2a7ffac8900d",
+  "practice/sql/hard/hard-streak-001/solution.sql": "3fea783e13a42c8f4cd2043e97cc9223924c829402e65b92ee56e058f8f1a837",
+  "practice/sql/medium/medium-recency-002/solution.sql": "41897a7245dd46ababe17bc98a3cc43168204219459ef4de6295c05f3903f158",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "078b0d46f24431f39fd060f95e99102359afac64f60fa7c28749c0a9b57371f8",
+  "practice/sql/medium/medium-runtotal-001/solution.sql": "b8540ebd7647df29442cd315edd316e6e7bc620a09f79c0c2685a08750d86e6d"
 }
