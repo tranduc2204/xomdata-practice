@@ -125,5 +125,15 @@
   "practice/sql/medium/medium-winjoin-003/solution.sql": "40d45dbb0b437e31f37203bbf1374e9a38d33617c46418fd9ce933f2b5ad8cd1",
   "practice/sql/medium/medium-topn-001/solution.sql": "d6710ca8a5e5ec975577949192845821daf2179b99d6f4e93463cff7e341d56c",
   "practice/sql/medium/medium-topn-004/solution.sql": "5104b1080d815e597654305e1b10069d3351bf48e4699b39c19d1da251b9ddd7",
-  "practice/sql/medium/medium-topn-005/solution.sql": "b73eb55f5e93514b7fe7a00f786788bdefd7e4bd1a31d0dde4ccdc6eaa01bc0a"
+  "practice/sql/medium/medium-topn-005/solution.sql": "b73eb55f5e93514b7fe7a00f786788bdefd7e4bd1a31d0dde4ccdc6eaa01bc0a",
+  "practice/sql/medium/medium-cohort-001/solution.sql": "1c941ac7f8d238b553a717498e19f9b3972b643de8e4a58e3972ba94c7eb9192",
+  "practice/sql/medium/medium-winjoin-001/solution.sql": "e25ee8c81d1c49849cd6aa034b5207de2b1f4c5fe45cf701708dbb1e2968ab70",
+  "practice/sql/medium/medium-winjoin-002/solution.sql": "a24758084828f5e51fe06b93186e82f611128559ba5cd25a8f57c0a2a5d3de6b",
+  "practice/sql/medium/medium-dedup-003/solution.sql": "6cb9fcb37be4e09e0fe76aec3f0d4486ebe321eb5fd5349e5e20714b543bff6f",
+  "practice/sql/medium/medium-firstval-001/solution.sql": "11d2aa4fae25e849fd9ee64ab14723f360915b735859fc30dfd3e9e3d7c45cfc",
+  "practice/sql/medium/medium-dedup-001/solution.sql": "a089fdaee16736a8a085829fa0ca0c08f3830ea6481e56ae6df15a87c0107dba",
+  "practice/sql/medium/medium-dedup-002/solution.sql": "2872db726072d45d01b1a7636d78ae2a2ee9841d122c731079b0355d0ddfb750",
+  "practice/sql/medium/medium-topn-006/solution.sql": "17111929972de8affa9f9aa66510d912605e52cbbb52c3f2a9c2e046ee48083d",
+  "practice/sql/medium/medium-denserank-003/solution.sql": "a80156f56988c4903e0b2aa0892b1dff2ab0f9d1865b1c724ece41556c666b51",
+  "practice/sql/medium/medium-monetary-004/solution.sql": "718f7d92a19cb56eac532f42d52e4f030a92b3ca7249dccf517fc79ec3656c78"
 }
