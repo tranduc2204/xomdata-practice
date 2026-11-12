@@ -155,5 +155,6 @@
   "practice/sql/medium/medium-winagg-005/solution.sql": "fa6e6a7b5c64eced8116c142ba7b4cc6e5bec6ffe830cbda53a771d771a91683",
   "practice/sql/hard/medium-repeat-005/solution.sql": "75733ce058be0223ba653c9b019d2e1d2ec9ee96e243293f9d89a9b9178fd328",
   "practice/sql/hard/medium-cohort-008/solution.sql": "63520ff53db34fc27969b798e775d257c524e587c9cd8d155c85f7dcf70db01c",
-  "practice/sql/medium/medium-frequency-006/solution.sql": "45d92498588d5d0002a6f84a75adc9535db8d2cbe65a9c7f61030676a7eb6f74"
+  "practice/sql/medium/medium-frequency-006/solution.sql": "45d92498588d5d0002a6f84a75adc9535db8d2cbe65a9c7f61030676a7eb6f74",
+  "practice/sql/hard/hard-ltv-003/solution.sql": "f059a691b4863cc877cf8e06c1b4cb4d0814182b632d9f698c52b4caf76bf44a"
 }
